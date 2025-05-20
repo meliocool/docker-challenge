@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.sqlite3
+static/
+dist/
+.env
+.venv/
+node_modules/
+.ruff_cache/
+.git/
+dist/
+
+Dockerfile 
+gar-sa-key.json
